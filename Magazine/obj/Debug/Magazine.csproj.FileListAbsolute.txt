@@ -1,0 +1,13 @@
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\obj\Debug\Magazine.csprojAssemblyReference.cache
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\obj\Debug\Magazine.csproj.CoreCompileInputs.cache
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\bin\Debug\Magazine.exe.config
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\bin\Debug\Magazine.exe
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\bin\Debug\Magazine.pdb
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\bin\Debug\EntityFramework.dll
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\bin\Debug\EntityFramework.xml
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\obj\Debug\Magazine.csproj.CopyComplete
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\obj\Debug\Magazine.exe
+C:\Users\АйткожаЖ.CORP\source\repos\Magazine\Magazine\obj\Debug\Magazine.pdb
